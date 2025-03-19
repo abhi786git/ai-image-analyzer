@@ -9,5 +9,6 @@ Flask-CORS
 Flask-Login
 Flask-SQLAlchemy
 torch
+transformers
 
 
