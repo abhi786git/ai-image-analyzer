@@ -1,0 +1,11 @@
+Flask
+gunicorn
+openai
+Pillow
+opencv-python
+reportlab
+Flask-WTF
+Flask-CORS
+Flask-Login
+Flask-SQLAlchemy
+

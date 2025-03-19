@@ -1,0 +1,21 @@
+
+     Image Analysis Report
+
+    Filename: images.jpg
+    Dimensions: 254x198 (Width x Height)
+    Channels: 3
+    File Size: 11.13 KB
+    Color Type: Color (RGB/BGR)
+
+     Top 5 Dominant Colors (RGB):
+    1. [97, 101, 65]
+    2. [13, 23, 7]
+    3. [139, 137, 110]
+    4. [51, 66, 31]
+    5. [188, 180, 167]
+
+     Additional Features:
+    Brightness: 76.13
+    Contrast: 52.55
+    Sharpness: 3906.21
+    
